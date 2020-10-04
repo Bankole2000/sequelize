@@ -1,0 +1,12 @@
+create project 
+>>>: npm init
+
+install packages 
+>>>: npm i express body-parser sequelize mysql2 express-handlebars
+
+install nodemon as Dev dependency 
+>>>: npm i -D nodemon 
+
+edit FILE: package.json add start and dev scripts 
+
+create models
